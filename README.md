@@ -1,5 +1,15 @@
+## How to use this project in your Micro-Bit
 
-> Open this page at [https://krish-198.github.io/dodge-the-dot/](https://krish-198.github.io/dodge-the-dot/)
+Download the hex flie and drag in to your Microbit.
+
+> This project can be seen without a micro-bit on- https://makecode.microbit.org/_29TTzy2jpJXg
+> To get a micro-bit see this link- https://www.amazon.com/Vilros-BBC-Micro-Basic-Starter/dp/B08WR4X7P9/ref=sr_1_2_sspa?crid=IMDMCZ53I93Y&keywords=Micro+bit&qid=1643391803&sprefix=micro+bit%2Caps%2C874&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExRzJQTDJBSk1VQ0s1JmVuY3J5cHRlZElkPUEwNDQ3MDAxMzBPOUtVRlAyWVVCNSZlbmNyeXB0ZWRBZElkPUEwMzQ0MTEwMVNIWExXTktJMkIzRCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+
+Please Note
+
+* You do not need a micro-bit to see this project.
+* I would recommend you use a Micro-Bit.
+* This project is made with Microsoft Makecode.
 
 ## Use as Extension
 
